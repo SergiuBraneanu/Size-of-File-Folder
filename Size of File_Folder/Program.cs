@@ -15,7 +15,6 @@ namespace Size_of_File_Folder
             long sizeb = fi.Length;
             
             Console.WriteLine("Dimensiunea in bytes:{0}", sizeb);
-            Console.WriteLine("Dimensiunea pe disk:{0}", a);
 
         }
     }
